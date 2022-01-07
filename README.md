@@ -4,7 +4,7 @@ This repository contains the code used when developing and studying the 3iCubing
 
 Other links to related algorithms are listed bellow:
 
-[M3iCubing](https://github.com/Blaldas/M3iCubing)
+[3iCubing](https://github.com/Blaldas/3iCubing)
 
 [Frag-Cubing (used version)](https://github.com/Blaldas/Frag-Cubing_Java_Simplified)
 
